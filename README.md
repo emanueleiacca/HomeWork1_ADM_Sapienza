@@ -5,7 +5,6 @@ This repository contains my submissions for various Python challenges and proble
 
 ## Files Included
 
-- `.py` files: Python scripts containing the solution to each challenge.
 - `.ipynb` files: Jupyter notebook versions of the Python scripts (converted using the `p2j` library).
 - `.pdf` file: The PDF export of all submissions, showing the progress and results.
 - **Tools Used**:
